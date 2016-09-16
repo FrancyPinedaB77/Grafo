@@ -1,0 +1,16 @@
+#contenedor{
+	background-color: #FF0000;
+	height: 200px;
+	width: 30%;
+}
+
+.mi-item{
+	color: #0000FF;
+	background-color: #00FF00;
+}
+
+#canvas{
+	position: absolute;
+	border: 3px;
+	border-color: #000000;
+}
